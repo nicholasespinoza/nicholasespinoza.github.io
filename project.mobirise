@@ -186,7 +186,7 @@
           },
           "title": "Nicholas Espinoza",
           "text": "<b><i>I Nicholas Espinoza was born on July 27,2005. I am currently in 6th grade at Miami Arts Studio @ Zelda Glacier 6-12. I am in the Tech Production magnet and my teacher is Mr. Pate.</i></b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Continued Introduction</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-8\" data-toolbar=\"-mbrBtnMove\">Continued Introduction</a>"
         },
         {
           "_inherit": "features4",
