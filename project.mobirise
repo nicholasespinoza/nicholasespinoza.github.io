@@ -367,16 +367,6 @@
             "paddingBottom": 4,
             "images": [
               {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/filter-adjustment-bald-eagle-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/filter-adjustment-bald-eagle-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -387,12 +377,32 @@
                 "active": false
               },
               {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/filter-adjustment-bald-eagle-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/filter-adjustment-bald-eagle-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/album-front-back-2000x1000-800x400.jpg",
                 "image": "@PROJECT_PATH@/assets/images/album-front-back-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tint-ice-glass-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tint-ice-glass-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -411,28 +421,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/filter-adjustment-duckling-2000x1043-800x417.jpg",
-                "image": "@PROJECT_PATH@/assets/images/filter-adjustment-duckling-2000x1043.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tint-brazilian-birds-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tint-brazilian-birds-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tint-ice-glass-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tint-ice-glass-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -443,6 +433,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/albert-einstein-2000x1210-800x484.jpg",
                 "image": "@PROJECT_PATH@/assets/images/albert-einstein-2000x1210.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/filter-adjustment-duckling-2000x1043-800x417.jpg",
+                "image": "@PROJECT_PATH@/assets/images/filter-adjustment-duckling-2000x1043.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
