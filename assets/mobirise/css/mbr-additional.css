@@ -475,10 +475,86 @@ h6,
 #msg-box5-4 P {
   text-align: left;
 }
+#msg-box5-4 H3 {
+  color: #cccccc;
+}
+#msg-box5-4 I {
+  color: #cccccc;
+}
 #features7-6 .card-subtitle {
   color: #bcbcbc;
 }
 #features7-6 .iconbox {
-  background-color: #c0a375;
-  border-color: #c0a375;
+  background-color: #efefef;
+  border-color: #efefef;
+}
+#features7-6 P {
+  color: #ffffff;
+}
+#features7-6 H4 {
+  color: #ffffff;
+}
+#ext_menu-b .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-b .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-b .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-b .close-icon::before,
+#ext_menu-b .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-b .link,
+#ext_menu-b .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-b .link {
+  font-size: 0.75rem;
+}
+#ext_menu-b .dropdown-item,
+#ext_menu-b .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-b .link:hover,
+#ext_menu-b .dropdown-item:hover,
+#ext_menu-b .link:focus,
+#ext_menu-b .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-b .link[aria-expanded="true"],
+#ext_menu-b .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-b .nav-dropdown-sm .link:focus,
+#ext_menu-b .nav-dropdown-sm .link:hover,
+#ext_menu-b .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-b .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-b .navbar,
+#ext_menu-b .nav-dropdown-sm,
+#ext_menu-b .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-b .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-b .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-b .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-b .bg-color.transparent.opened .link:hover,
+#ext_menu-b .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-b .link[aria-expanded="true"],
+#ext_menu-b .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#form1-e .form-control-label {
+  color: #232323;
 }
