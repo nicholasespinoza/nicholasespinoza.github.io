@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Adobe Photoshop.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -327,19 +327,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-8",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><i><b>Continued Biography</b></i></p><p>I Nicholas Espinoza was born on July 27,2005. I am currently in 6th grade at Miami Arts Studio @ Zelda Glacier 6-12. I am in the Tech Production magnet and my teacher is Mr. Pate. &nbsp;I am familiar with adobe photoshop and microsoft word. My favorie things to do are build models out of wood, play sports, and go fishing. I play sports for my school like softball, wrestling, and crosscountry.</p>"
         },
         {
           "_tags": [
