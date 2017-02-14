@@ -619,3 +619,10 @@ h6,
 #ext_menu-z .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#form1-11 .form-control-label {
+  color: #232323;
+}
+#form1-11 SMALL {
+  color: #000000;
+  text-align: center;
+}
