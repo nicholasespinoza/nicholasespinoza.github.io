@@ -558,6 +558,12 @@ h6,
 #ext_menu-b .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header1-15 .mbr-section-lead {
+  color: #28324e;
+}
+#header1-15 .mbr-section-title {
+  color: #ffffff;
+}
 #ext_menu-z .hide-buttons .nav-btn {
   display: none !important;
 }
