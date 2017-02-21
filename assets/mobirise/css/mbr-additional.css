@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+
 
 
 
@@ -482,6 +484,17 @@ h6,
 #msg-box5-4 I {
   color: #ffffff;
 }
+#msg-box8-1a .mbr-section-title,
+#msg-box8-1a p {
+  color: #fff;
+}
+#msg-box8-1a .mbr-section-title {
+  text-align: center;
+}
+#msg-box8-1a .mbr-section-title SPAN {
+  font-family: 'Lato', sans-serif;
+  font-size: 36px;
+}
 #features7-6 .card-subtitle {
   color: #bcbcbc;
 }
@@ -569,72 +582,4 @@ h6,
 #header1-15 .mbr-section-title {
   color: #ffffff;
   font-family: 'Source Sans Pro', sans-serif;
-}
-#ext_menu-z .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-z .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-z .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-z .close-icon::before,
-#ext_menu-z .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-z .link,
-#ext_menu-z .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-z .link {
-  font-size: 0.8rem;
-}
-#ext_menu-z .dropdown-item,
-#ext_menu-z .nav-dropdown-sm .link {
-  font-size: 0.866rem;
-}
-#ext_menu-z .link:hover,
-#ext_menu-z .dropdown-item:hover,
-#ext_menu-z .link:focus,
-#ext_menu-z .dropdown-item:focus {
-  color: #c0a375;
-}
-#ext_menu-z .link[aria-expanded="true"],
-#ext_menu-z .dropdown-menu {
-  background: #0e0e0e;
-}
-#ext_menu-z .nav-dropdown-sm .link:focus,
-#ext_menu-z .nav-dropdown-sm .link:hover,
-#ext_menu-z .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-z .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#ext_menu-z .navbar,
-#ext_menu-z .nav-dropdown-sm,
-#ext_menu-z .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-z .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#ext_menu-z .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-z .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-z .bg-color.transparent.opened .link:hover,
-#ext_menu-z .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#ext_menu-z .link[aria-expanded="true"],
-#ext_menu-z .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#form1-11 .form-control-label {
-  color: #232323;
-}
-#form1-11 SMALL {
-  color: #000000;
-  text-align: center;
 }
