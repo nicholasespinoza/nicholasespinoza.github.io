@@ -514,6 +514,10 @@ h6,
 #content7-7 LI {
   text-align: center;
 }
+#social-buttons4-1e .mbr-section-title,
+#social-buttons4-1e .btn-social {
+  color: #fff;
+}
 
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
