@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 52,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 55,
+    "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -170,65 +170,41 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
+          "_name": "header1",
           "_styles": {
-            "P": {
-              "text-align": "left"
+            ".mbr-section-lead": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             },
-            "H3": {
-              "color": "#ffffff"
-            },
-            "I": {
-              "color": "#ffffff"
+            ".mbr-section-title": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "48px"
             }
           },
-          "_anchor": "msg-box5-4",
+          "_anchor": "header1-1i",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "bgColor": "#fff",
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-3411-2000x2681-1.jpg",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#19269b",
-            "inverse": true,
+            "overlayColor": "#000",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-1400x1876.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Nicholas Espinoza",
-          "text": "<b><i>I Nicholas Espinoza was born on July 27,2005. I am currently in 6th grade at Miami Arts Studio @ Zelda Glacier 6-12. I am in the Tech Production magnet and my teacher is Mr. Pate.</i></b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-m\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Continued Biography<br></a>"
+          "title": "A Little About Myself",
+          "text": "I Nicholas Espinoza was born on July 27,2005. I am currently in 6th grade at Miami Arts Studio @ Zelda Glacier 6-12. I am in the Tech Production magnet and my teacher is Mr. Pate.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
@@ -271,7 +247,9 @@
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/HRl0oJiHw4c?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -733,7 +711,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mobierise-logo-384x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/mobierise-logo-384x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -804,7 +782,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/albert-einstein-2000x1210-800x484.jpg",
-                "image": "@PROJECT_PATH@/assets/images/albert-einstein-2000x12101.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-einstein-2000x12104.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -824,7 +802,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/polka-dots-2000x1128-800x451.jpg",
-                "image": "@PROJECT_PATH@/assets/images/polka-dots-2000x11282.jpg",
+                "image": "@PROJECT_PATH@/assets/images/polka-dots-2000x11285.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
