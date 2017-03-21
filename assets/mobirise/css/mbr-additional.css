@@ -537,10 +537,12 @@ h6,
 }
 #header1-1 .mbr-section-lead {
   text-align: left;
+  color: #f7da64;
 }
 #header1-1 .mbr-section-title {
   font-family: 'Lato', sans-serif;
   font-size: 60px;
+  color: #f7da64;
 }
 #msg-box8-4 .mbr-section-title,
 #msg-box8-4 p {
