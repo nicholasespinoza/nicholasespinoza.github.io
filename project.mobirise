@@ -948,7 +948,7 @@
             "paddingTop": "0",
             "paddingBottom": "1",
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
@@ -957,7 +957,7 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/HRl0oJiHw4c?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
