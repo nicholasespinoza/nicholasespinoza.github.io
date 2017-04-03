@@ -609,6 +609,9 @@ h6,
   font-size: 60px;
   color: #f7da64;
 }
+#content1-16 P {
+  color: #ffffff;
+}
 #msg-box8-11 .mbr-section-title,
 #msg-box8-11 p {
   color: #fff;
@@ -625,9 +628,6 @@ h6,
   color: #ffffff;
 }
 #features7-14 H4 {
-  color: #ffffff;
-}
-#content1-16 P {
   color: #ffffff;
 }
 #social-buttons4-19 .mbr-section-title,
