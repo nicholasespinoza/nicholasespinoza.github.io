@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 50,
+    "uniqCompNum": 51,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -873,11 +873,24 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-1b",
+          "_name": "content1",
+          "_anchor": "content1-i",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#28324e"
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1e",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -892,25 +905,12 @@
             "overlayColor": "#222",
             "inverse": false,
             "showButtons": true,
-            "showText": false,
+            "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=_zgwkQ6JVSg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch My Story</a>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "Watch My Story"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-i",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#28324e"
-          },
-          "text": ""
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=_zgwkQ6JVSg&amp;t=15s\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Story</a>",
+          "text": "",
+          "title": "Check Out My Story"
         },
         {
           "_name": "footer1",
