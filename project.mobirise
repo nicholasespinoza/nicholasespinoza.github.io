@@ -964,7 +964,7 @@
           "_anchor": "contacts3-9",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -991,7 +991,7 @@
               "size": 0
             }
           },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1022,9 +1022,9 @@
             }
           },
           "text4": "<a href=\"mailto:support@mobirise.com\">n</a>espinoza@miamiartsstudio.com",
-          "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: nespinoza@miamiartsstudio.com<br>Phone: 786-599-6023<br><br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "title1": "",
+          "text5": "",
+          "text6": "<strong>Contacts</strong><br>Email: nespinoza@miamiartsstudio.com<br>Phone: 786-599-6023<br><br><br><br><br>",
           "form": {
             "title": "MESSAGE",
             "action": "nespinoza@miamiartsstudio.com",
