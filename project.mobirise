@@ -895,7 +895,7 @@
             "showText": false,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=_zgwkQ6JVSg\" data-toolbar=\"-mbrBtnMove\">Watch My Story</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=_zgwkQ6JVSg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch My Story</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
           "title": "Watch My Story"
         },
