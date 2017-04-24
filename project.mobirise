@@ -23,7 +23,8 @@
     "versionFirst": "3.10.7",
     "uniqCompNum": 58,
     "versionPublish": "3.11.1",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "AdobePhotoshop.html": {
