@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Index.html",
+    "currentPage": "AdobePremiere.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 57,
+    "uniqCompNum": 58,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -1686,18 +1686,20 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
+          "_inherit": "msg-box5",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-1i",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1l",
           "_params": {
+            "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
+            "paddingBottom": "3",
             "parallax": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#717171",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1705,57 +1707,33 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": true
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=u8H8Kibgqzs\" data-toolbar=\"-mbrBtnMove\">Click to watch</a>",
-          "text": "",
-          "title": "Watch My (Imagine Dragons) Video",
-          "_styles": {
-            "H3": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-1j",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#717171",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Click to watch</a>",
-          "text": "",
-          "title": "Watch My (Thousand Milion Reasons) Video",
-          "_styles": {
-            "H3": {
-              "font-size": "32px",
-              "color": "#ffffff"
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=u8H8Kibgqzs",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
             }
-          }
+          },
+          "title": "Imagine Dragons Submission",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=u8H8Kibgqzs\" data-toolbar=\"-mbrBtnMove\">Watch it in Youtube</a>"
         },
         {
           "_tags": [
