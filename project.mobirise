@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Index.html",
+    "currentPage": "AdobePremiere.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -9,7 +9,7 @@
         "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#e25041",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 58,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 60,
+    "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -1738,6 +1738,56 @@
           "title": "Imagine Dragons Submission",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=u8H8Kibgqzs\" data-toolbar=\"-mbrBtnMove\">Watch it in Youtube</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1n",
+          "_params": {
+            "imageSize": "48",
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Thousand Milion Reasons Video",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Wath it on Youtube</a>"
         },
         {
           "_tags": [
