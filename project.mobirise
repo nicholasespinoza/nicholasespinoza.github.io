@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Index.html",
+    "currentPage": "AdobePremiere.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.7",
     "uniqCompNum": 60,
-    "versionPublish": "3.10.7",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -1774,7 +1774,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=Igsxv7doJ_8",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
