@@ -970,7 +970,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br><br>15015 SW 24th St, Miami, FL 33185\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: nespinoza@miamiartsstuduio.com<br>\nPhone: (786)-599-6023<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p>https://www.youtube.com/channel/UCmED_5BKyT2WHWAy64_uKwA<ul class=\"mbr-contacts__list\"><br><br><br></ul>",
+          "text2": "<p><p class=\"mbr-contacts__text\"><strong>Links</strong></p>https://www.youtube.com/channel/UCmED_</p><p>5BKyT2WHWAy64_uKwA<ul class=\"mbr-contacts__list\"><br><br><br></ul></p>",
           "form": {
             "title": "MESSAGE",
             "action": "nespinoza@miamiartsstudio.com",
