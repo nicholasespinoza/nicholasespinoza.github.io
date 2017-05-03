@@ -891,6 +891,11 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box1-1e",
           "_params": {
             "paddingTop": "2",
@@ -898,7 +903,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#303133",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -914,12 +919,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=_zgwkQ6JVSg&amp;t=15s\" data-toolbar=\"-mbrBtnMove\">My Story</a>",
           "text": "",
-          "title": "Check Out My Story",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "title": "Check Out My Story"
         },
         {
           "_inherit": "social-buttons2",
