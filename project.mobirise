@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "IntroductionPage.html",
+    "currentPage": "Index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1434,7 +1434,7 @@
             "showButtons": false
           },
           "title": "A Little Bit About Me",
-          "text": "I Nicholas Espinoza was born on july 27, 2005. Am in 6th grade in the Tech Production magnet at Miami Arts Studio. My teacher is Mr. Pate and I am working with Adobe Photoshop right now.&nbsp;",
+          "text": "I Nicholas Espinoza was born on july 27, 2005. Am in 6th grade in the Tech Production magnet at Miami Arts Studio. My teacher is Mr. Pate and I am working with Adobe Photoshop and Adobe Premire.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
         {
@@ -1466,7 +1466,7 @@
             "paddingBottom": 1,
             "bgColor": "#2b0680"
           },
-          "text": "<p><i><b>Countinued Biography</b></i></p><p>I Nicholas Espinoza was born on july 27, 2005. Am in 6th grade in the Tech Production magnet at Miami Arts Studio. My teacher is Mr. Pate and I am working with Adobe Photoshop right now. In my spare time I like to playsports and go fishing. I play sports for my school like crosscountry, softball, and wressling. I go fishing about 3 times a month and when I do I go mid-night fishing and I usally catch Mango Snapper and Snooks.</p>"
+          "text": "<p><i><b>Countinued Biography</b></i></p><p>I Nicholas Espinoza was born on july 27, 2005. Am in 6th grade in the Tech Production magnet at Miami Arts Studio. My teacher is Mr. Pate and I am working with Adobe Photoshop and Adobe Premire. In my spare time I like to playsports and go fishing. I play sports for my school like crosscountry, softball, and wressling. I go fishing about 3 times a month and when I do I go night fishing and I usally catch Snooks.</p><p><i><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ( As seen above)</b></i></p>"
         },
         {
           "_name": "footer1",
