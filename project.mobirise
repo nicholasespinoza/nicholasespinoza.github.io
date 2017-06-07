@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Index.html",
+    "currentPage": "AdobePremiere.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1345,7 +1345,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=dZug8r0A3YA",
+              "src": "https://www.youtube.com/watch?v=X6iGmYWH0zU",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1356,7 +1356,7 @@
               "size": 250
             }
           },
-          "title": "Video Of School Contest Winners",
+          "title": "Intro Of School Contest Winners",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
